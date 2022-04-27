@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working on **Green Shop**
+- 🔭 I’m currently working on **Green Shop Project**
 
 - 🌱 I’m currently learning **React Native**
 
