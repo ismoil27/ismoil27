@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Green Shop Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://ismoiljonabduraimov.netlify.app/](https://ismoiljonabduraimov.netlify.app/)
 
