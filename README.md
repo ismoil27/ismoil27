@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working on **Green Shop, Houzing Projects** and at SmartPro company
+- 🔭 I’m currently working on **Houzing Projects** and at SmartPRO company
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://ismoiljonabduraimov.netlify.app/](https://ismoiljonabduraimov.netlify.app/)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React and Node.js**
 
 - 📫 How to reach me **abduraimovismoil98@gmail.com**
 <img align=“right” alt=“Coding” height="300px" width=“300px” src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
