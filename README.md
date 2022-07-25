@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 
-- 🔭 I’m currently working on **"Houzing Project"** and at SmartPRO company
+- 🔭 I work at SmartPRO company
 
 - 🌱 I’m currently learning **Node.js**
 
