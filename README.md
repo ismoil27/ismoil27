@@ -4,11 +4,11 @@
 
 - 🔭 I work at SmartPRO company
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Server and DataBase**
 
 - 👨‍💻 All of my projects are available at [https://ismoil27.github.io/my-website/](https://ismoil27.github.io/my-website/)
 
-- 💬 Ask me about **React and Node.js**
+- 💬 Ask me about **JavaScript and Node.js**
 
 - 📫 How to reach me **abduraimovismoil98@gmail.com**
 <img align=“right” alt=“Coding” height="300px" width=“300px” src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
