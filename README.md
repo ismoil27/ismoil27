@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Server and DataBase**
 
-- 👨‍💻 All of my projects are available at [https://ismoil27.github.io/my-website/](https://ismoil27.github.io/my-website/)
-
 - 💬 Ask me about **JavaScript and Node.js**
 
 - 📫 How to reach me **abduraimovismoil98@gmail.com**
