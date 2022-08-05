@@ -4,7 +4,7 @@
 
 - 🔭 I work at SmartPRO company
 
-- 🌱 I’m currently learning **Server and DataBase**
+- 🌱 I’m currently learning **backend**
 
 - 💬 Ask me about **JavaScript and Node.js**
 
