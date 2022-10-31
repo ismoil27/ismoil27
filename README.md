@@ -4,7 +4,7 @@
 
 - 🔭 I work at SmartPRO company
 
-- 🌱 I do interest **Blogging**
+- 🌱 I am interested in **Blogging**
 
 - 💬 Ask me about **JavaScript**
 
