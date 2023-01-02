@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismoiljon</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-
-- 🔭 I work at SmartPRO company
-
 - 🌱 I am interested in **Blogging**
 
 - 💬 Ask me about **JavaScript**
