@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **React, Nodejs, Python, DevOps, ML**
 
-- 📫 How to reach me **ismoil.odiljon@gmail.com**
+<-- - 📫 How to reach me **ismoil.odiljon@gmail.com** -->
+- 📫 How to reach me **abduraimovismoil98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
