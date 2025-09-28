@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ismoiljon</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-
-- 🌱 I’m currently learning **ML**
-
-- 📝 I write articles on [https://ismoiljon.hashnode.dev/](https://ismoiljon.hashnode.dev/)
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 💬 Ask me about **React, Nodejs, Python, DevOps, ML**
 
-<-- - 📫 How to reach me **ismoil.odiljon@gmail.com** -->
 - 📫 How to reach me **abduraimovismoil98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
