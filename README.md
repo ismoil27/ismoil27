@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismoiljon</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 💬 Ask me about **React, Nodejs, Python, DevOps, ML**
+- 💬 Ask me about **React, Nodejs, Python, DevOps, AI**
 
 - 📫 How to reach me **abduraimovismoil98@gmail.com**
 
