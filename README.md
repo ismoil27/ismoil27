@@ -19,6 +19,6 @@
 > Tools, languages, and other things that I like to work with.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,js,ts,react,nextjs,redux,bootstrap,tailwind,sass,materialui,threejs,nodejs,express,java,ML,DL,Pytorch,RAG" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,nestjs,js,ts,react,nextjs,redux,bootstrap,tailwind,sass,materialui,threejs,nodejs,express,java,ML,DL,Pytorch,RAG" />
   <img src="https://skillicons.dev/icons?i=aws,docker,postgresql,mysql,mongodb,graphql,git,notion,figma,vite,webstorm" />
 </div>
