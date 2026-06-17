@@ -8,7 +8,7 @@
   <h1 align="center">Software & AI Engineer</h1>
 </p>
 <p align="center">
-    <a href="mailto:abduraimovismoil98@gmail.com">Email</a>
+    <a href="mailto:abduraimovismoil98@gmail.com">Email: abduraimovismoil98@gmail.com</a>
 </p>
 <p align="center">
   <h4 align="center" style="max-width: 600;">Ask me about AI and Engineering</h4>
